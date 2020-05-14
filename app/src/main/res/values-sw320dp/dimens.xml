@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Densidad Muy Alta xhdpi-->
+<resources>
+    <dimen name="text_size">48sp</dimen>
+    <dimen name="button_size">180dp</dimen>
+</resources>
